@@ -15,4 +15,4 @@ This repository contains code examples and exercises for practicing data structu
 To start practicing with the code, clone the repository and explore the examples provided.
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/lunatic-bot/PythonScripts.git
